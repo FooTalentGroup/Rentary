@@ -60,7 +60,7 @@ https://foo-talent.vercel.app/
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-|<img src="https://media.licdn.com/dms/image/v2/D4E35AQH3B7hb3UUnVw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1679417827951?e=1748109600&v=beta&t=5rREHlSfOZTugjcXzM-ToA9_gj5329h3nWEBsg1uQ5Q" width="100" height="100" alt="Handrych Márquez">|<img src="https://media.licdn.com/dms/image/v2/D4E03AQFBiePXwSDa0w/profile-displayphoto-shrink_800_800/B4EZaURM7vHMAc-/0/1746244260589?e=1752710400&v=beta&t=Hn-tIrDusab4fXrOkhnGOR9rpuJt_EyctIOLbmtpdf4" width="100" height="100" alt="Gabriela Gutierrez">|
+|<img src="https://media.licdn.com/dms/image/v2/D4E35AQH3B7hb3UUnVw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1679417827951?e=1749510000&v=beta&t=r1oae66A-MEUrCiYK5K43d2hI1thNZzWFqnZ47YzXaI" width="100" height="100" alt="Handrych Márquez">|<img src="https://media.licdn.com/dms/image/v2/D4E03AQFBiePXwSDa0w/profile-displayphoto-shrink_800_800/B4EZaURM7vHMAc-/0/1746244260589?e=1752710400&v=beta&t=Hn-tIrDusab4fXrOkhnGOR9rpuJt_EyctIOLbmtpdf4" width="100" height="100" alt="Gabriela Gutierrez">|
 |:--:|:--:|
 |**Handrych Márquez**<br>*QA Manual*<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/handrych-m%C3%A1rquez/)|**Gabriela Gutierrez**<br>*QA Manual*<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-gutierrez-376296250/)|
 
